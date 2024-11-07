@@ -1,6 +1,8 @@
 # labhubnaofunionalalguemmemata
 
+https://sourceforge.net/projects/finalangelsanddemons/files/rs2xml.jar/download
 
+https://dev.mysql.com/downloads/connector/j/
 
 
 ```
